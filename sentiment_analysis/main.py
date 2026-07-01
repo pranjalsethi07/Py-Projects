@@ -25,3 +25,5 @@ print("Sentiment Polarity:", sentiment) #-1 to 1, where -1 is very negative, 0 i
 
 #to run this code in venv  terminal, use the following command:
 # python main.py
+# to activate venv,use the following command:
+# .\.venv\Scripts\activate (use deactivate to deactivate the venv)
