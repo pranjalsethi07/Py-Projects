@@ -1,0 +1,9 @@
+# OCR stack for main.py
+# EasyOCR downloads its pretrained model files automatically on first run.
+easyocr==1.6.2
+numpy==1.26.4
+opencv-python-headless==4.5.4.60
+Pillow<10
+matplotlib==3.6.2
+
+# also all these are installed wrt python version 10...venv ko activate(.\.venv\Scripts\Activate.ps1) krne k baad venv ka env dekh lena p10 hoga by doing python --version
